@@ -31,7 +31,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stephen-gloade/)
 - 📧 [Email](stephen.gloade@gmail.com)
-- 🌐 [Personal Website](boop)
+- 🌐 [Personal Website](https://stephenstuff.dev)
 
 ## ⚡ Fun fact:
 
